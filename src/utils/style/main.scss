@@ -1,0 +1,99 @@
+$main-bg-color: #0f181d;
+$secondary-bg-color: #1f1f24;
+$primary-txt-color: white;
+$card-bg-color: #1f1f24;
+$button-bg-color: #fcb045;
+$header-bg-color: #1f1f24;
+$footer-bg-color: #1f1f24;
+
+body {
+  background: rgb(34, 193, 195);
+  background: radial-gradient(
+    circle,
+    rgba(34, 193, 195, 1) 0%,
+    rgba(253, 187, 45, 1) 100%
+  );
+}
+.header-navbar {
+  background-color: $header-bg-color;
+  text-transform: uppercase;
+}
+.link-text {
+  color: $primary-txt-color;
+}
+.link-text:hover {
+  color: #22c1c3;
+}
+.profile {
+  color: $primary-txt-color;
+}
+.contact-button {
+  background-color: $button-bg-color;
+  border-color: #fcb045;
+  font-weight: 600;
+}
+.contact-button:hover {
+  background-color: #22c1c3;
+  border-color: #22c1c3;
+}
+.brand-name,
+.read-more-button {
+  background-color: $main-bg-color;
+}
+.competences,
+.contact {
+  color: $primary-txt-color;
+}
+
+.footer {
+  color: $primary-txt-color;
+  background-color: $footer-bg-color;
+}
+
+.card {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border: none;
+  background-color: $card-bg-color;
+}
+.contact-row {
+  padding-bottom: 10px;
+}
+.card-body {
+  color: $primary-txt-color;
+}
+.social-links i {
+  color: #fcb045;
+}
+.social-links i:hover {
+  color: #22c1c3;
+}
+.works a {
+  text-decoration: none;
+  color: $primary-txt-color;
+}
+.works .card {
+  min-height: 515px;
+  max-height: 515px;
+  margin-bottom: 40px;
+}
+
+.works .card-title {
+  color: #22c1c3;
+}
+.work-image {
+  height: 277px;
+}
+.language-badge {
+  margin: 5px;
+  padding: 5px;
+}
+.read-more-button {
+  background-color: #fcb045;
+  font-weight: 600;
+}
+.competences .skills-card,
+.contact-button {
+  box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px,
+    rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px,
+    rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}

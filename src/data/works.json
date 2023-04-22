@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Booki",
+    "description": "Intégration de l'interface d'un site Internet permettant aux usagers de trouver des hébergements et des activités dans la ville de leur choix.",
+    "image": "booki.jpg",
+    "languages": ["HTML5", "CSS3"],
+    "workURL": "https://asengimana.github.io/booki/",
+    "workURLText": "Accéder au site"
+  },
+  {
+    "id": 2,
+    "title": "OhMyFood",
+    "description": "Intégration et dynamisation d'un site “mobile first” qui répertorie les menus de restaurants gastronomiques, avec des animations CSS.",
+    "image": "ohmyfood.jpg",
+    "languages": ["HTML5", "CSS3", "Sass"],
+    "workURL": "https://asengimana.github.io/ohmyfood/",
+    "workURLText": "Accéder au site"
+  },
+  {
+    "id": 3,
+    "title": "Kasa",
+    "description": "Développement et intégration en responsive d'une application web de location d’appartements entre particuliers en React en suivant les maquettes Figma.",
+    "image": "kasa.jpg",
+    "languages": ["JavaScript", "Reactjs", "React Router", "Nodejs"],
+    "workURL": "https://opc-kasa.netlify.app/",
+    "workURLText": "Accéder au site"
+  },
+  {
+    "id": 4,
+    "title": "Kanap",
+    "description": "Intégration dynamique des éléments d'une API dans les différentes pages web d'une boutique e-commerce de vente de canapés en JavaScript.",
+    "image": "kanap.jpeg",
+    "languages": ["JavaScript", "Nodejs", "Expressjs"],
+    "workURL": "https://github.com/asengimana/kanap",
+    "workURLText": "Voir le projet sur GitHub"
+  },
+  {
+    "id": 5,
+    "title": "Piiquante",
+    "description": "Développement d'une API sécurisée pour une application web de critique des sauces piquantes appelée « Hot Takes ».",
+    "image": "piiquante.jpg",
+    "languages": ["JavaScript", "Nodejs", "Expressjs", "MongoDB"],
+    "workURL": "",
+    "workURLText": "Voir le projet sur GitHub"
+  },
+  {
+    "id": 6,
+    "title": "La Panthère",
+    "description": "Optimisation d'un site web existant en amélioration son référencement (SEO), sa vitesse de chargement et son accessibilité.",
+    "image": "la-panthere.jpg",
+    "languages": ["HTML5", "CSS3"],
+    "workURL": "https://asengimana.github.io/la-panthere/",
+    "workURLText": "Accéder au site"
+  }
+]
