@@ -11,7 +11,7 @@ export default function Profile() {
       <section id="a-propos" className="my-5 profile">
         <Container>
           <Row className="gy-4 align-items-center">
-            <Col md="9">
+            <Col md="8">
               <TrackVisibility>
                 {({ isVisible }) => (
                   <div
@@ -37,7 +37,7 @@ export default function Profile() {
                 </Button>
               </Tippy>
             </Col>
-            <Col md="3">
+            <Col md="4">
               <Image src={portrait} fluid rounded className="portrait-image" />
             </Col>
           </Row>

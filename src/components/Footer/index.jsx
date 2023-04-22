@@ -8,7 +8,10 @@ export default function Footer() {
       <Container>
         <Row className="gy-4 align-items-center">
           <Col md="4">
-            <Navbar.Brand href="#home" className="text-uppercase text-light">
+            <Navbar.Brand
+              href="#a-propos"
+              className="text-uppercase text-light"
+            >
               <span class="brand-name bg-gradient p-1 rounded-3">Alain</span>{" "}
               Sengimana
             </Navbar.Brand>

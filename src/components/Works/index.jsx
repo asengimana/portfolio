@@ -10,7 +10,7 @@ export default function Works() {
       <section className="py-5 works" id="portfolio">
         <Container>
           <h2 class="mb-0 text-white">Portfolio</h2>
-          <h3 class="fw-light fs-5 text-white">Projets perso et pro</h3>
+          <h3 class="fw-light fs-5 text-white">Mes réalisations</h3>
           <TrackVisibility>
             {({ isVisible }) => (
               <div

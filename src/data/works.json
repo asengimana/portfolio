@@ -41,7 +41,7 @@
     "description": "Développement d'une API sécurisée pour une application web de critique des sauces piquantes appelée « Hot Takes ».",
     "image": "piiquante.jpg",
     "languages": ["JavaScript", "Nodejs", "Expressjs", "MongoDB"],
-    "workURL": "",
+    "workURL": "https://github.com/asengimana",
     "workURLText": "Voir le projet sur GitHub"
   },
   {
