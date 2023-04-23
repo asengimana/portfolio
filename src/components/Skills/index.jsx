@@ -8,7 +8,7 @@ export default function Skills() {
     <div>
       <section className="py-5 competences" id="competences">
         <Container>
-          <h2 class="mb-0">Compétences</h2>
+          <h2 className="mb-0">Compétences</h2>
           <TrackVisibility>
             {({ isVisible }) => (
               <div

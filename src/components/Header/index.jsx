@@ -9,7 +9,7 @@ export default function Header() {
       <Navbar className="header-navbar fixed-top" expand="lg">
         <Container>
           <Navbar.Brand href="#a-propos" className="text-uppercase text-light">
-            <span class="brand-name bg-gradient p-1 rounded-3">Alain</span>{" "}
+            <span className="brand-name bg-gradient p-1 rounded-3">Alain</span>{" "}
             Sengimana
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
@@ -35,38 +35,38 @@ export default function Header() {
             </Nav>
             <ul class="list-inline mb-0 social-links">
               <Tippy content="LinkedIn">
-                <li class="list-inline-item">
+                <li className="list-inline-item">
                   <a
                     href="https://www.linkedin.com/in/asengimana"
                     target="_blank"
                     rel="noreferrer"
-                    class="text-decoration-none"
+                    className="text-decoration-none"
                   >
-                    <i class="fab fa-linkedin fa-2x"></i>
+                    <i className="fab fa-linkedin fa-2x"></i>
                   </a>
                 </li>
               </Tippy>
               <Tippy content="GitHub">
-                <li class="list-inline-item">
+                <li className="list-inline-item">
                   <a
                     href="https://github.com/asengimana"
                     target="_blank"
                     rel="noreferrer"
-                    class="text-decoration-none"
+                    className="text-decoration-none"
                   >
-                    <i class="fab fa-github-square fa-2x"></i>
+                    <i className="fab fa-github-square fa-2x"></i>
                   </a>
                 </li>
               </Tippy>
               <Tippy content="Twitter">
-                <li class="list-inline-item">
+                <li className="list-inline-item">
                   <a
                     href="https://twitter.com/match4d"
                     target="_blank"
                     rel="noreferrer"
-                    class="text-decoration-none"
+                    className="text-decoration-none"
                   >
-                    <i class="fab fa-twitter-square fa-2x"></i>
+                    <i className="fab fa-twitter-square fa-2x"></i>
                   </a>
                 </li>
               </Tippy>

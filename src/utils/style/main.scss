@@ -75,13 +75,15 @@ body {
   min-height: 515px;
   max-height: 515px;
   margin-bottom: 40px;
+  margin-top: 20px;
 }
 
 .works .card-title {
   color: #22c1c3;
 }
 .work-image {
-  height: 277px;
+  min-height: 277px;
+  max-height: 277px;
 }
 .language-badge {
   margin: 5px;
