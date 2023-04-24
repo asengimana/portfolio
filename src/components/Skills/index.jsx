@@ -9,6 +9,9 @@ export default function Skills() {
       <section className="py-5 competences" id="competences">
         <Container>
           <h2 className="mb-0">Compétences</h2>
+          <h3 className="fw-light fs-5 text-white">
+            Langages, frameworks & bibliothèques
+          </h3>
           <TrackVisibility>
             {({ isVisible }) => (
               <div
@@ -24,11 +27,14 @@ export default function Skills() {
                       className="skills_skill"
                     >
                       <Card className="rounded-4 skills-card">
-                        <Card.Body className="d-flex flex-row-reverse justify-content-center justify-content-around  p-4">
-                          <Card.Title>{skill.name}</Card.Title>
+                        <Card.Body className="d-flex flex-row-reverse align-items-center justify-content-between  p-3">
+                          <Card.Title className="skill-title">
+                            {skill.name}
+                          </Card.Title>
                           <Image
                             src={`images/skills/${skill.image}`}
                             alt={skill.name}
+                            className="skill-image"
                           />
                         </Card.Body>
                       </Card>

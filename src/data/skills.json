@@ -22,7 +22,7 @@
   {
     "id": 5,
     "name": "Reactjs",
-    "image": "react.png"
+    "image": "reactjs.png"
   },
   {
     "id": 6,
@@ -53,5 +53,10 @@
     "id": 11,
     "name": "MongoDB",
     "image": "mongodb.png"
+  },
+  {
+    "id": 12,
+    "name": "Bootstrap",
+    "image": "bootstrap.png"
   }
 ]

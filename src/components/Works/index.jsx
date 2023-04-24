@@ -28,7 +28,9 @@ export default function Works() {
                         />
                         <Card.Body>
                           <Card.Title>{work.title}</Card.Title>
-                          <Card.Text>{work.description}</Card.Text>
+                          <Card.Text className="work-description">
+                            {work.description}
+                          </Card.Text>
                           <p className="languages">
                             {work.languages.map((language, index) => (
                               <Badge

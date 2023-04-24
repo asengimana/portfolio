@@ -4,7 +4,7 @@
     "title": "Booki",
     "description": "Intégration de l'interface d'un site Internet permettant aux usagers de trouver des hébergements et des activités dans la ville de leur choix.",
     "image": "booki.jpg",
-    "languages": ["HTML5", "CSS3"],
+    "languages": ["HTML5", "CSS3", "Git"],
     "workURL": "https://asengimana.github.io/booki/",
     "workURLText": "Accéder au site"
   },
@@ -13,7 +13,7 @@
     "title": "OhMyFood",
     "description": "Intégration et dynamisation d'un site “mobile first” qui répertorie les menus de restaurants gastronomiques, avec des animations CSS.",
     "image": "ohmyfood.jpg",
-    "languages": ["HTML5", "CSS3", "Sass"],
+    "languages": ["HTML5", "CSS3", "Sass", "Git"],
     "workURL": "https://asengimana.github.io/ohmyfood/",
     "workURLText": "Accéder au site"
   },
@@ -22,7 +22,7 @@
     "title": "Kasa",
     "description": "Développement et intégration en responsive d'une application web de location d’appartements entre particuliers en React en suivant les maquettes Figma.",
     "image": "kasa.jpg",
-    "languages": ["JavaScript", "Reactjs", "React Router", "Nodejs"],
+    "languages": ["JavaScript", "Reactjs", "React Router", "Nodejs", "Git"],
     "workURL": "https://opc-kasa.netlify.app/",
     "workURLText": "Accéder au site"
   },
@@ -31,7 +31,7 @@
     "title": "Kanap",
     "description": "Intégration dynamique des éléments d'une API dans les différentes pages web d'une boutique e-commerce de vente de canapés en JavaScript.",
     "image": "kanap.jpeg",
-    "languages": ["JavaScript", "Nodejs", "Expressjs"],
+    "languages": ["JavaScript", "Nodejs", "Expressjs", "Git"],
     "workURL": "https://github.com/asengimana/kanap",
     "workURLText": "Voir le projet sur GitHub"
   },
@@ -40,7 +40,7 @@
     "title": "Piiquante",
     "description": "Développement d'une API sécurisée pour une application web de critique des sauces piquantes appelée « Hot Takes ».",
     "image": "piiquante.jpg",
-    "languages": ["JavaScript", "Nodejs", "Expressjs", "MongoDB"],
+    "languages": ["JavaScript", "Nodejs", "Expressjs", "MongoDB", "Git"],
     "workURL": "https://github.com/asengimana",
     "workURLText": "Voir le projet sur GitHub"
   },
@@ -49,7 +49,7 @@
     "title": "La Panthère",
     "description": "Optimisation d'un site web existant en amélioration son référencement (SEO), sa vitesse de chargement et son accessibilité.",
     "image": "la-panthere.jpg",
-    "languages": ["HTML5", "CSS3"],
+    "languages": ["HTML5", "CSS3", "Git"],
     "workURL": "https://asengimana.github.io/la-panthere/",
     "workURLText": "Accéder au site"
   }
