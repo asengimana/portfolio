@@ -21,8 +21,7 @@ export default function Profile() {
                   >
                     <h1>
                       Bonjour, je suis <b className="fw-bold">Alain</b>,
-                      <br />{" "}
-                      <b className="fw-bold">Développeur web Freelance</b>
+                      <br /> <b className="fw-bold">Développeur web</b>
                     </h1>
                     <h2 className="fw-light">Bienvenue sur mon Portfolio</h2>
                   </div>

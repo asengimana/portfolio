@@ -21,11 +21,11 @@ export default function Header() {
               <Nav.Link href="#a-propos" className="link-text">
                 À propos
               </Nav.Link>
-              <Nav.Link href="#competences" className="link-text">
-                Compétences
-              </Nav.Link>
               <Nav.Link href="#portfolio" className="link-text">
                 Portfolio
+              </Nav.Link>
+              <Nav.Link href="#competences" className="link-text">
+                Compétences
               </Nav.Link>
               <Tippy content="Accéder au formulaire de contact.">
                 <Nav.Link href="#contact" className="link-text">
